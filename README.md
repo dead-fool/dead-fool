@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dead-programmer
-- 👀 I’m interested in Web- development, front-end for now.
-- 🌱 I’m currently learning html and css.
-- 💞️ I’m looking to collaborate on building beginner level projects through html and css. 
+- 👀 I’m interested in Machine learning.
+- 🌱 I’m currently learning pygame module.
+- 💞️ I’m looking to collaborate on building beginner level projects through python and its modules. 
 - 📫 You can reach me at bibekniroula87@gmail.com.
 
 <!---
