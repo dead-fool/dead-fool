@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dead-programmer
+- 👋 Hi, I’m @dead-fool
 - 👀 I’m interested in Machine learning.
 - 🌱 I’m currently learning pygame module.
 - 💞️ I’m looking to collaborate on building beginner level projects through python and its modules. 
