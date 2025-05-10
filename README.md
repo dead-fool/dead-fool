@@ -15,7 +15,7 @@ I’m passionate about hands-on projects and constantly expanding my knowledge t
 - **Languages:** Python, C++, Java
 - **AI/ML Tools:** TensorFlow, PyTorch, NumPy
 - **Other Tools:** Git, PyGame, OpenGL
-
+<!--
 ## Get in Touch
 - LinkedIn: ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bibek-niroula-5b82031ab/))
 
